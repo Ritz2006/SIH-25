@@ -16,6 +16,13 @@
 
 This workout tracker uses your webcam and MediaPipe’s pose estimation to detect your body movements in real time. It analyzes joint angles and motion patterns to automatically count reps, track sets, provide form feedback, and estimate calories burned. All progress is displayed instantly through Streamlit and saved for workout history.
 
+---
+**Tech Stack Used**
+
+- Python , OpenCV, Numpy , Pandas , MediaPipe , Streamlit .
+
+---
+
 **In-Short**
 
 Tracks your workout in real time using AI pose detection by turning your laptop into a mini AI personal trainer 🤖
